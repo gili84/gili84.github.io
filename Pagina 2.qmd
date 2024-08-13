@@ -15,7 +15,7 @@ Nega, eu te amo!!!
 
 [<-](index.html)
 
-[![](seta.png){.absolute width=20%}](index.html)
+[![](seta.png){.absolute width=10%}](index.html)
 
 
 
