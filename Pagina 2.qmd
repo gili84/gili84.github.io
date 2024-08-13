@@ -10,3 +10,5 @@ editor: visual
 Nega, eu te amo!!!
 
 [vídeos](pagina3.html)
+
+[volte para pagina 1](index.html)
