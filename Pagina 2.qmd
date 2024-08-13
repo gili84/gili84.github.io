@@ -12,3 +12,11 @@ Nega, eu te amo!!!
 [vídeos](pagina3.html)
 
 [volte para pagina 1](index.html)
+
+[<-](index.html)
+
+[![](seta.png){.absolute width=20%}](index.html)
+
+
+
+{.absolute top=200 left=0 width="350" height="300"}
