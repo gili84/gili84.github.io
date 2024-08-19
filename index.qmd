@@ -1,6 +1,6 @@
 ---
-title: "Aula index"
-author: "Giliard"
+title: "Teste: construindo um site"
+autor: "Giliard"
 format: html
 editor: visual
 ---
