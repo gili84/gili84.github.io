@@ -1,13 +1,17 @@
 ---
-title: "página 2"
-author: "Giliard"
+title: "Medidas de tendência central com Rstudio"
+
 format: html
 editor: visual
 ---
 
-## meu projeto de mestrado
+## 
 
-Nega, eu te amo!!!
+```{r}
+rgdados<-read.csv("dadosrg.csv",sep=";",dec=".")
+
+summary(rgdados)
+```
 
 [vídeos](pagina3.html)
 
