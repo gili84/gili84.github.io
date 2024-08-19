@@ -8,7 +8,7 @@ editor: visual
 ## 
 
 ```{r}
-rgdados_<-read.csv("rgdados_modificado",sep=";",dec=".")
+Sumario<-read.csv("subdiretorio/rgdados_modificado",sep=";",dec=".")
 
 summary(rgdados_modificado)
 
