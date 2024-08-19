@@ -1,13 +1,13 @@
 ---
 title: "Teste: construindo um site"
-autor: "Giliard"
+
 format: html
 editor: visual
 ---
 
-## Minha página
+## Giliard
 
-[clique aqui](Pagina 2.html)
+[Medidas de tendência central com Rstudio](Pagina 2.html)
 
 [vídeos](pagina3.html)
 
