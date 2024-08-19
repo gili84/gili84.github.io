@@ -8,9 +8,11 @@ editor: visual
 ## 
 
 ```{r}
-rgdados<-read.csv("dadosrg.csv",sep=";",dec=".")
+rgdados_<-read.csv("rgdados_modificado",sep=";",dec=".")
 
-summary(rgdados)
+summary(rgdados_modificado)
+
+
 ```
 
 [vídeos](pagina3.html)
