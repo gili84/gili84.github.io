@@ -8,9 +8,9 @@ editor: visual
 ## 
 
 ```{r}
-Sumario<-read.csv("subdiretorio/rgdados_modificado",sep=";",dec=".")
+Sumario<-read.csv("cars",sep=";",dec=".")
 
-summary(rgdados_modificado)
+summary(cars)
 
 
 ```
@@ -19,10 +19,8 @@ summary(rgdados_modificado)
 
 [volte para pagina 1](index.html)
 
-[<-](index.html)
+[\<-](index.html)
 
-[![](seta.png){.absolute width=10%}](index.html)
-
-
+[![](seta.png){.absolute width="10%"}](index.html)
 
 {.absolute top=200 left=0 width="350" height="300"}

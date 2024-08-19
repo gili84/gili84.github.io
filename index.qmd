@@ -7,10 +7,11 @@ editor: visual
 
 ## Giliard
 
-[Medidas de tendência central com Rstudio](Pagina 2.html)
+[Medidas de tendência central com Rstudio](Pagina%202.html)
 
 [vídeos](pagina3.html)
 
+```{=html}
 <style>
         body {
             background-image: url(https://s1.static.brasilescola.uol.com.br/be/vestibular/graficos-tabelas-sao-objetos-basicos-para-estudo-estatistica-5812154677e56.jpg);
@@ -33,3 +34,4 @@ editor: visual
             border-radius: 10px;
         }
     </style>
+```
