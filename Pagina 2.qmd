@@ -8,10 +8,9 @@ editor: visual
 ## 
 
 ```{r}
-Sumario<-read.csv("cars",sep=";",dec=".")
+dados<-read.csv("cars",sep=";",dec=".")
 
 summary(cars)
-
 
 ```
 

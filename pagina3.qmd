@@ -1,11 +1,19 @@
 ---
-title: "Pagina3"
+title: "Criando Boxplot no R"
 author: "Giliard"
 format: html
 editor: visual
 ---
 
 ## Página 3
+
+## Boxplot da Velocidade dos Carros
+
+\`\`\`{r} \# Carregar o conjunto de dados data(cars)
+
+# Criar o boxplot
+
+boxplot(cars\$speed, main = "Boxplot da Velocidade dos Carros", ylab = "Velocidade", col = "lightblue")
 
 [vídeos](https://www.youtube.com/watch?v=hKhXusgHhTo)
 
