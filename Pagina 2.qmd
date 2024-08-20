@@ -8,7 +8,7 @@ editor: visual
 #### Exemplo de um resumo das principais medidas de tendência central utilizando o R
 
 ```{r}
-RG<-read.csv("rgdados_modificado.csv")
+RG<-read.csv("https://raw.githubusercontent.com/gili84/gili84.github.io/main/rgdados_modificado.csv")
 summary(RG[,-c(1,3,4,5)])
 ```
 

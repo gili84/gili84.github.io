@@ -7,15 +7,23 @@ editor: visual
 
 #### Gerando gráfico de dispersão acima e abaixo da média
 
-```{r}
-library(ggplot)
+```{r echo=T}
+RG<-read.csv("https://raw.githubusercontent.com/gili84/gili84.github.io/main/rgdados_modificado.csv")
+
+
+library(ggplot2)
+
+library(knitr)
+
+kable(RG[,-c(3,4,5)])
+
+plot(RG$Ventvel, RG$precmed)
 
 ggplot(RG, aes(x=Ano, y=precmed)) +
   geom_point(color="red") +
   ggtitle("Meses com precipitação acima da média geral") +
   xlab("Ano") +
   ylab("Precipitação Média") +
-  scale_y_continuous(breaks = seq(floor(min(RG$precmed)), ceiling(max(RG$precmed)), by = 1)) +
   theme_minimal()
 
 
@@ -26,8 +34,8 @@ ggplot(RG, aes(x=Ano, y=precmed)) +
   ggtitle("Meses com precipitação abaixo da média geral") +
   xlab("Ano") +
   ylab("Precipitação Média") +
-  scale_y_continuous(breaks = seq(floor(min(RG$precmed)), ceiling(max(RG$precmed)), by = 0.5)) +
   theme_minimal()
+
 
 ```
 
