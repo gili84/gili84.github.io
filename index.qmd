@@ -1,17 +1,19 @@
 ---
 title: "Teste: construindo um site"
-
+theme: cosmo
 format: html
 editor: visual
 ---
 
 ## Giliard
 
-[Medidas de tendência central com Rstudio](Pagina%202.html)
+<a href="Pagina%202.html" style = "color: white;">Medidas de tendência central com Rstudio</a>
 
-[Desvendando o R e Rstudio](pagina3.html)
+<a href="pagina3.html" style = "color: white;">Desvendando o R e Rstudio</a>
 
-[Tutorial de markdown](Pagina4.html)
+<a href="Pagina4.html" style = "color: white;">Tutorial de markdown</a>
+
+
 
 ```{=html}
 <style>
