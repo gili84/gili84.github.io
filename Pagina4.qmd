@@ -7,7 +7,7 @@ editor: visual
 
 #### Tutorial com a professora Fernada Peres, desenvolvendo técnicas para gerar relatórios em Markdown.
 
-### [Tutorial](https://youtube.com/watch?v=obxa5VH4WvY&list=PLOw62cBQ5j9VV0WR533an6wmh9dZFUFKJ&index=1)
+### [Tutorial](https://www.youtube.com/watch?v=obxa5VH4WvY&list=PLOw62cBQ5j9VV0WR533an6wmh9dZFUFKJ&pp=iAQB)
 
 
 [Pág. inicial](index.html)
