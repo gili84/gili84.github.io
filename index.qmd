@@ -9,7 +9,9 @@ editor: visual
 
 [Medidas de tendência central com Rstudio](Pagina%202.html)
 
-[vídeos](pagina3.html)
+[Desvendando o R e Rstudio](pagina3.html)
+
+[Tutorial de markdown](pagina4.html)
 
 ```{=html}
 <style>

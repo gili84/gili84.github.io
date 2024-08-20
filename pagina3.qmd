@@ -1,20 +1,14 @@
 ---
-title: "Criando Boxplot no R"
-author: "Giliard"
+title: "Desvendando o R e Rstudio"
+
 format: html
 editor: visual
 ---
 
-## Página 3
+#### A seguir temos uma playlist elaborada pelo professor Miguel  Padeiro, que nos mostra inúmeros processos de se trabalhar com R.
 
-## Boxplot da Velocidade dos Carros
 
-\`\`\`{r} \# Carregar o conjunto de dados data(cars)
 
-# Criar o boxplot
+[Playlist R](https://www.youtube.com/watch?v=j_Z7Ddq7k0E&list=PLyAtibIKlfrsmnp5oohz1Wt3tG0WxTlQa&pp=iAQB)
 
-boxplot(cars\$speed, main = "Boxplot da Velocidade dos Carros", ylab = "Velocidade", col = "lightblue")
-
-[vídeos](https://www.youtube.com/watch?v=hKhXusgHhTo)
-
-[volte para pagina 1](index.html)
+[Pág. inicial](index.html)

@@ -5,7 +5,7 @@ format: html
 editor: visual
 ---
 
-
+#### Exemplo de um resumo das principais medidas de tendência central utilizando o R
 
 ```{r}
 # Carregar o dataset cars
@@ -17,12 +17,8 @@ summary(cars)
 
 ```
 
-[vídeos](pagina3.html)
 
-[volte para pagina 1](index.html)
 
-[\<-](index.html)
+[Pág. inicial](index.html)
 
-[![](seta.png){.absolute width="10%"}](index.html)
 
-{.absolute top=200 left=0 width="350" height="300"}
