@@ -5,12 +5,15 @@ format: html
 editor: visual
 ---
 
-## 
+
 
 ```{r}
-dados<-read.csv("cars",sep=";",dec=".")
+# Carregar o dataset cars
+data(cars)
 
+# Gerar um resumo do dataset
 summary(cars)
+
 
 ```
 
