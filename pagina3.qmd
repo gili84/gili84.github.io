@@ -4,7 +4,7 @@ title: "Desvendando o R e Rstudio"
 format: html
 editor: visual
 ---
-
+![](https://beatrizmilz.github.io/2021-senacamb-intro-R/slides/img/ciclo-ciencia-de-dados.png)
 #### Gerando gráfico de dispersão acima e abaixo da média
 
 ```{r echo=T}
