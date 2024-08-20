@@ -8,23 +8,34 @@ editor: visual
 #### Exemplo de um resumo das principais medidas de tendência central utilizando o R
 
 ```{r}
-# Carregar o dataset cars
-data(cars)
-
-# Gerar um resumo do dataset
-summary(cars)
-
-
+RG<-read.csv("rgdados_modificado.csv")
+summary(RG[,-c(1,3,4,5)])
 ```
 
-#### Gráfico de Dispersão (plot(cars$speed, cars$dist))
-Esse é um gráfico de dispersão que mostra a relação entre a velocidade dos carros (speed) e a distância necessária para parar (dist).
+#### Boxplot
+
 ```{r}
-plot(cars$speed)
-plot(cars$dist)
+boxplot_resultprecip <-boxplot(RG$precmed,
+                            main = "Boxplot da precipitação ",
+                            ylab = "Precipitação média",
+                            xlab = "06/2014-05/2024",
+                            col = "lightblue",
+                            border = "black",
+                            outline = TRUE,
+                            horizontal = FALSE)
+
+
 ```
 
+```{r}
+boxplot_resultvent<-boxplot(RG$Ventvel,
+        main = "Boxplot do vento ",
+        ylab = "Vento média",
+        xlab = "06/2014-05/2024",
+        col = "lightgreen",
+        border = "black",
+        outline = TRUE,
+        horizontal = FALSE)
+```
 
 [Pág. inicial](index.html)
-
-

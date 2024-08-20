@@ -5,6 +5,33 @@ format: html
 editor: visual
 ---
 
+#### Gerando gráfico de dispersão acima e abaixo da média
+
+```{r}
+library(ggplot)
+
+ggplot(RG, aes(x=Ano, y=precmed)) +
+  geom_point(color="red") +
+  ggtitle("Meses com precipitação acima da média geral") +
+  xlab("Ano") +
+  ylab("Precipitação Média") +
+  scale_y_continuous(breaks = seq(floor(min(RG$precmed)), ceiling(max(RG$precmed)), by = 1)) +
+  theme_minimal()
+
+
+
+
+ggplot(RG, aes(x=Ano, y=precmed)) +
+  geom_point(color="blue") +
+  ggtitle("Meses com precipitação abaixo da média geral") +
+  xlab("Ano") +
+  ylab("Precipitação Média") +
+  scale_y_continuous(breaks = seq(floor(min(RG$precmed)), ceiling(max(RG$precmed)), by = 0.5)) +
+  theme_minimal()
+
+```
+
+
 #### A seguir temos uma playlist elaborada pelo professor Miguel  Padeiro, que nos mostra inúmeros processos de se trabalhar com R.
 
 
