@@ -17,6 +17,12 @@ summary(cars)
 
 ```
 
+#### Gráfico de Dispersão (plot(cars$speed, cars$dist))
+Esse é um gráfico de dispersão que mostra a relação entre a velocidade dos carros (speed) e a distância necessária para parar (dist).
+```{r}
+plot(cars$speed)
+plot(cars$dist)
+```
 
 
 [Pág. inicial](index.html)
