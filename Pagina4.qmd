@@ -10,7 +10,7 @@ editor: visual
 ### [Tutorial](https://www.youtube.com/watch?v=obxa5VH4WvY&list=PLOw62cBQ5j9VV0WR533an6wmh9dZFUFKJ&pp=iAQB)
 
 $E = mc^{2}$
-
+$$y = \mu + \sum_{i=1}^p \beta_i x_i + \epsilon$$
 ![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*O6p2KrUkylXSx7TNBEP5nA.png)
 
 [Pág. inicial](index.html)
