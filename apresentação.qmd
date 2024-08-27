@@ -7,7 +7,7 @@ editor: visual
 
 ## MEU PRIMEIRO SLIDE
 
-Aqui tu vai colocar informações lalalala
+# #a contrução
 
 ## SEGUNDO SLIDE
 
