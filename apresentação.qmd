@@ -1,0 +1,14 @@
+---
+title: "Escala temperada"
+author: "Giliard da Silveira"
+format: revealjs
+editor: visual
+---
+
+## MEU PRIMEIRO SLIDE
+
+Aqui tu vai colocar informações lalalala
+
+## SEGUNDO SLIDE
+
+## teste
