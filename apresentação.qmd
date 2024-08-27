@@ -7,7 +7,7 @@ editor: visual
 
 ## MEU PRIMEIRO SLIDE
 
-# #a contrução
+# a contrução
 
 ## SEGUNDO SLIDE
 
