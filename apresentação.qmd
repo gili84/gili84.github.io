@@ -59,7 +59,7 @@ Essas práticas ajudam a balancear as necessidades econômicas e alimentares com
 ## Visão espacial da área de estudo
 
 <div style="text-align: center;">
-  <img src="https://4.bp.blogspot.com/-QeBkqmRsc2c/TxM5xn8-KSI/AAAAAAAACTQ/zzzAwTE0Ghc/s1600/Limites+do+estu%25C3%25A1rio.jpg" alt="Mapa do Estuário da Lagoa dos Patos" style="width: 80%; max-width: 600px;"/>
+  <img src="https://4.bp.blogspot.com/-QeBkqmRsc2c/TxM5xn8-KSI/AAAAAAAACTQ/zzzAwTE0Ghc/s1600/Limites+do+estu%25C3%25A1rio.jpg" alt="Mapa do Estuário da Lagoa dos Patos" style="width: 40%; max-width: 600px;"/>
 </div>
-<img src="URL da Imagem" style="width: 80%; max-width: 80%;"/>
+
 ---
