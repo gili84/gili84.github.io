@@ -9,17 +9,23 @@ format: revealjs
 
 A estatística pesqueira é um ramo da ciência que se ocupa da coleta, análise e interpretação de dados relacionados à pesca. Seu objetivo principal é fornecer informações úteis para a gestão sustentável dos recursos pesqueiros, garantindo que a pesca seja realizada de forma que preserve os ecossistemas aquáticos e assegure a disponibilidade contínua de espécies para o futuro.
 
-## Estrura básica do estudo
+# Estrutura básica do estudo
 
-1. **Coleta de Dados**: Registro das capturas, esforço de pesca (quanto tempo e quantos barcos estão pescando), e características das espécies capturadas, como tamanho, peso e idade.
 
-2. **Análise de Dados**: Estudo das tendências nas populações de peixes, como taxas de crescimento, mortalidade e recrutamento (entrada de novos indivíduos na população).
+## 1. **Coleta de Dados**: 
+Registro das capturas, esforço de pesca (quanto tempo e quantos barcos estão pescando), e características das espécies capturadas, como tamanho, peso e idade.
 
-3. **Modelagem**: Uso de modelos matemáticos e estatísticos para prever o impacto da pesca sobre as populações de peixes e para formular estratégias de manejo.
+## 2. **Análise de Dados**: 
+Estudo das tendências nas populações de peixes, como taxas de crescimento, mortalidade e recrutamento (entrada de novos indivíduos na população).
 
-4. **Avaliação e Gestão**: Desenvolvimento de políticas e regulamentos baseados em dados estatísticos para controlar a pesca e proteger os recursos marinhos, como cotas de captura, tamanhos mínimos de peixe e áreas de proteção.
+## 3. **Modelagem**: 
+Uso de modelos matemáticos e estatísticos para prever o impacto da pesca sobre as populações de peixes e para formular estratégias de manejo.
 
-5. **Relatórios e Comunicação**: Compartilhamento de informações com gestores, pescadores e o público para promover a consciência e a cooperação na conservação dos recursos pesqueiros.
+## 4. **Avaliação e Gestão**: 
+Desenvolvimento de políticas e regulamentos baseados em dados estatísticos para controlar a pesca e proteger os recursos marinhos, como cotas de captura, tamanhos mínimos de peixe e áreas de proteção.
+
+## 5. **Relatórios e Comunicação**: 
+Compartilhamento de informações com gestores, pescadores e o público para promover a consciência e a cooperação na conservação dos recursos pesqueiros.
 
 Essas práticas ajudam a balancear as necessidades econômicas e alimentares com a preservação ambiental, promovendo um uso mais responsável e eficiente dos recursos marinhos.
 
@@ -55,5 +61,5 @@ Essas práticas ajudam a balancear as necessidades econômicas e alimentares com
 <div style="text-align: center;">
   <img src="https://4.bp.blogspot.com/-QeBkqmRsc2c/TxM5xn8-KSI/AAAAAAAACTQ/zzzAwTE0Ghc/s1600/Limites+do+estu%25C3%25A1rio.jpg" alt="Mapa do Estuário da Lagoa dos Patos" style="width: 80%; max-width: 600px;"/>
 </div>
-
+<img src="URL da Imagem" style="width: 80%; max-width: 80%;"/>
 ---
