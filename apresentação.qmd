@@ -11,6 +11,13 @@ A estatística pesqueira é um ramo da ciência que se ocupa da coleta, análise
 
 # Estrutura básica do estudo
 
+ **Coleta de dados**
+ 
+ **Análise de dados**
+ 
+ **Modelagem**
+ 
+ **Avaliação e gestão**
 
 ## 1. **Coleta de Dados**: 
 Registro das capturas, esforço de pesca (quanto tempo e quantos barcos estão pescando), e características das espécies capturadas, como tamanho, peso e idade.
@@ -62,4 +69,3 @@ Essas práticas ajudam a balancear as necessidades econômicas e alimentares com
   <img src="https://4.bp.blogspot.com/-QeBkqmRsc2c/TxM5xn8-KSI/AAAAAAAACTQ/zzzAwTE0Ghc/s1600/Limites+do+estu%25C3%25A1rio.jpg" alt="Mapa do Estuário da Lagoa dos Patos" style="width: 40%; max-width: 600px;"/>
 </div>
 
----
