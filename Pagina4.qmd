@@ -5,9 +5,15 @@ format: html
 editor: visual
 ---
 
-#### Tutorial com a professora Fernada Peres, desenvolvendo técnicas para gerar relatórios em Markdown.
+Tutorial com a professora Fernada Peres, desenvolvendo técnicas para gerar relatórios em Markdown.
 
-### [Tutorial](https://www.youtube.com/watch?v=obxa5VH4WvY&list=PLOw62cBQ5j9VV0WR533an6wmh9dZFUFKJ&pp=iAQB)
+### [Tutorial](https://www.youtube.com/watch?v=obxa5VH4WvY&list=PLOw62cBQ5j9VV0WR533an6wmh9dZFUFKJ&pp=iAQB)  
+
+
+
+
+
+Inserção de fórmulas
 
 $E = mc^{2}$
 $$y = \mu + \sum_{i=1}^p \beta_i x_i + \epsilon$$
