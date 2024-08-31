@@ -5,7 +5,10 @@ format: html
 editor: visual
 ---
 ![](https://beatrizmilz.github.io/2021-senacamb-intro-R/slides/img/ciclo-ciencia-de-dados.png)
-#### Gerando gráfico de dispersão acima e abaixo da média
+
+
+Gerando gráfico de dispersão acima e abaixo da média
+
 
 ```{r echo=T}
 RG<-read.csv("https://raw.githubusercontent.com/gili84/gili84.github.io/main/rgdados_modificado.csv")
@@ -40,7 +43,7 @@ ggplot(RG, aes(x=Ano, y=precmed)) +
 ```
 
 
-#### A seguir temos uma playlist elaborada pelo professor Miguel  Padeiro, que nos mostra inúmeros processos de se trabalhar com R.
+A seguir temos uma playlist elaborada pelo professor Miguel  Padeiro, que nos mostra inúmeros processos de se trabalhar com R.
 
 
 
