@@ -4,10 +4,14 @@ title: "Desvendando o R e Rstudio"
 format: html
 editor: visual
 ---
+
+
 ![](https://beatrizmilz.github.io/2021-senacamb-intro-R/slides/img/ciclo-ciencia-de-dados.png)
 
 
 Gerando gráfico de dispersão acima e abaixo da média
+
+
 
 
 ```{r echo=T}
@@ -43,6 +47,8 @@ ggplot(RG, aes(x=Ano, y=precmed)) +
 ```
 
 
+
+
 A seguir temos uma playlist elaborada pelo professor Miguel  Padeiro, que nos mostra inúmeros processos de se trabalhar com R.
 
 
@@ -50,3 +56,4 @@ A seguir temos uma playlist elaborada pelo professor Miguel  Padeiro, que nos mo
 [Playlist R](https://www.youtube.com/watch?v=j_Z7Ddq7k0E&list=PLyAtibIKlfrsmnp5oohz1Wt3tG0WxTlQa&pp=iAQB)
 
 [Pág. inicial](index.html)
+
