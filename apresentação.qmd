@@ -4,7 +4,6 @@ author: "Giliard de Castro da Silveira"
 transition: 'zoom'
 theme: 'sky'
 slideNumber: true
-highlightStyle: "github"
 format: revealjs
 css: |
   .reveal .slide {
@@ -16,7 +15,33 @@ css: |
   
   [Pág. inicial](index.html)
 ---
+## Sumário
 
+ **-Estrutura básica dos dados, pág 3**
+ 
+ **-Coleta de dados, pág 4**
+ 
+ **-Análise de dados, pág 5**
+ 
+ **-Modelagem, pág 6**
+ 
+ **-Avaliação e gestão, pág 7**
+ 
+ **-Relatórios e comunicação, pág 8**
+ 
+ **-Pesca artesanal, pág 9**
+ 
+ **-Estuário da lagos dos patos, pág 10**
+ 
+ **-O que é monitoramento de produção pesqueira, pág 11**
+ 
+ **-Vantagens do monitoramento amostral, pág 12**
+ 
+ **-Visão espacial da área de estudo, pág 13**
+ 
+ **-Referências, pág 14**
+ 
+ 
 ## Introdução
 
 A estatística pesqueira é um ramo da ciência que se ocupa da coleta, análise e interpretação de dados relacionados à pesca. Seu objetivo principal é fornecer informações úteis para a gestão sustentável dos recursos pesqueiros, garantindo que a pesca seja realizada de forma que preserve os ecossistemas aquáticos e assegure a disponibilidade contínua de espécies para o futuro.
@@ -83,3 +108,10 @@ Essas práticas ajudam a balancear as necessidades econômicas e alimentares com
 </div>
 
 [Pág. inicial](index.html)
+
+## Referências
+[Ministério da pesca(2010)](https://www.icmbio.gov.br/cepsul/images/stories/biblioteca/download/estatistica/est_2010_nac_boletim.pdf)
+
+[IBAMA (2006)](https://www.gov.br/ibama/pt-br/phocadownload/biodiversidade/biodiversidade-aquatica/gestao-pesqueira/publicacoes/2006-censo-estrutural-da-pesca.pdf)
+
+[Blog Pesca na lagoa](https://4.bp.blogspot.com/-QeBkqmRsc2c/TxM5xn8-KSI/AAAAAAAACTQ/zzzAwTE0Ghc/s1600/Limites+do+estu%25C3%25A1rio.jpg)
