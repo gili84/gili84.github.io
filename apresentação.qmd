@@ -10,14 +10,6 @@ format:
     smaller: true 
     
   
-css: |
-  .reveal .slide {
-    background-image: url('https://w1.pngwing.com/pngs/149/348/png-transparent-boat-fisherman-fishing-nets-angling-cast-net-character-yellow-thumbnail.png');
-    background-size: cover; /* Ajusta a imagem para cobrir todo o slide */
-    background-position: center; /* Centraliza a imagem */
-    background-repeat: no-repeat; /* Evita a repetição da imagem */
-  }
-  
   [Pág. inicial](index.html)
 ---
 ## **[Sumário](#sumário)**
@@ -213,6 +205,6 @@ Essas práticas ajudam a balancear as necessidades econômicas e alimentares com
   <a href="#sumário">Sumário</a> 
   
   
-     [Pág. inicial](index.html)
+   [Pág. inicial](index.html)
 </footer>
 
