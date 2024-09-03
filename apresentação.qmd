@@ -51,9 +51,12 @@ css: |
  
 ## Introdução {#pág3}
 
+<div style="text-align: justify;">
 A estatística pesqueira é um ramo da ciência que se ocupa da coleta, análise e interpretação de dados relacionados à pesca. Seu objetivo principal é fornecer informações úteis para a gestão sustentável dos recursos pesqueiros, garantindo que a pesca seja realizada de forma que preserve os ecossistemas aquáticos e assegure a disponibilidade contínua de espécies para o futuro.
 Vale lembrar que a apresentação é apenas uma síntese do que poderá ser abordado na dissertação, podendo ser incluído ou excluído os temas aqui apresentados.
 O trabalho da coleta de dados está em andamento pelo projeto de pesquisa "Estatística Pesqueira", que conta como referência o ilustre Prof.Dr. Paul Gerard Kinas.
+</div>
+
 
 
  <footer class="footer">
@@ -76,40 +79,51 @@ O trabalho da coleta de dados está em andamento pelo projeto de pesquisa "Estat
 </footer>
 
 ## 1. **Coleta de Dados**  {#pág5}
+
+<div style="text-align: justify;">
 Registro das capturas, esforço de pesca (quanto tempo e quantos barcos estão pescando), e características das espécies capturadas, como tamanho, peso e idade.
+</div>
 
 <footer class="footer">
   <a href="#sumário">Sumário</a>
 </footer>
 
 ## 2. **Análise de Dados** {#pág6} 
+
+<div style="text-align: justify;">
 Estudo das tendências nas populações de peixes, como taxas de crescimento, mortalidade e recrutamento (entrada de novos indivíduos na população).
 Considerar os manejos e petrechos de pesca artesanal, tais como tipos de rede, embarcação, características gerais de cada pescador.
+</div>
 
 <footer class="footer">
   <a href="#sumário">Sumário</a>
 </footer>
 
 ## 3. **Modelagem** {#pág7}
+<div style="text-align: justify;">
 Uso de modelos matemáticos e estatísticos para prever o impacto da pesca sobre as populações de peixes e para formular estratégias de manejo.
 Modelar o perfil do pescador artesanal envolvendo uma abordagem multifacetada que leva em consideração vários aspectos socioeconômicos, culturais e ambientais.
+</div>
 
 <footer class="footer">
   <a href="#sumário">Sumário</a>
 </footer>
 
 ## 4. **Avaliação e Gestão** {#pág8}
+<div style="text-align: justify;">
 Desenvolvimento de políticas e regulamentos baseados em dados estatísticos para controlar a pesca e proteger os recursos marinhos, como cotas de captura, tamanhos mínimos de peixe e áreas de proteção.
+</div>
 
 <footer class="footer">
   <a href="#sumário">Sumário</a>
 </footer>
 
 ## 5. **Relatórios e Comunicação** {#pág9}
+<div style="text-align: justify;">
 Compartilhamento de informações com gestores, pescadores e o público para promover a consciência e a cooperação na conservação dos recursos pesqueiros.
 
 Essas práticas ajudam a balancear as necessidades econômicas e alimentares com a preservação ambiental, promovendo um uso mais responsável e eficiente dos recursos marinhos.
-
+</div>
 
 <footer class="footer">
   <a href="#sumário">Sumário</a>
@@ -119,9 +133,12 @@ Essas práticas ajudam a balancear as necessidades econômicas e alimentares com
 ## Pesca Artesanal{#pág10}
 
 **Definição e Desafios**
+<div style="text-align: justify;">
 
 - **Definição**: Pesca realizada em pequena escala, com técnicas tradicionais.
 - **Desafios**: Dificuldades no monitoramento devido à variabilidade e ao caráter local.
+
+</div>
 
 <footer class="footer">
   <a href="#sumário">Sumário</a>
@@ -130,9 +147,12 @@ Essas práticas ajudam a balancear as necessidades econômicas e alimentares com
 
 ## Estuário da Lagoa dos Patos (ELP) {#pág11}
 
+<div style="text-align: justify;">
+
 - **Localização e Importância Ecológica**: Maior estuário do Brasil, rica em biodiversidade.
 - **Pesca Artesanal no ELP**: Descrição geral baseada em literatura e estudos prévios.
 
+</div>
 
 <footer class="footer">
   <a href="#sumário">Sumário</a>
@@ -140,11 +160,13 @@ Essas práticas ajudam a balancear as necessidades econômicas e alimentares com
 
 ## O que é Monitoramento de Produção Pesqueira? {#pág12}
 
+<div style="text-align: justify;">
 - **Definição**: Avaliação sistemática da quantidade e tipo de captura de pesca.
 - **Importância**: Fundamental para a gestão sustentável dos recursos pesqueiros e políticas públicas.
 - **Métodos no Mundo e no Brasil**: Monitoramento censitário e amostral.
 - **Censitário vs. Amostral**: Comparação e suas aplicações.
 
+</div>
 
 <footer class="footer">
   <a href="#sumário">Sumário</a>
@@ -153,9 +175,10 @@ Essas práticas ajudam a balancear as necessidades econômicas e alimentares com
 
 ## Vantagens do monitoramento amostral{#pág13}
 
+<div style="text-align: justify;">
 - **Eficiência**: Menor custo e recursos.
 - **Necessidade de Censo Estrutural**: Base para expansão inferencial em amostras probabilísticas.
-
+</div>
 
 <footer class="footer">
   <a href="#sumário">Sumário</a>
