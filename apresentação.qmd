@@ -5,7 +5,11 @@ transition: 'zoom'
 theme: 'sky'
 slideNumber:  true
 footer: "" 
-format: revealjs
+format: 
+  revealjs:
+    smaller: true 
+    scrollable: true 
+  
 css: |
   .reveal .slide {
     background-image: url('https://w1.pngwing.com/pngs/149/348/png-transparent-boat-fisherman-fishing-nets-angling-cast-net-character-yellow-thumbnail.png');
@@ -179,7 +183,8 @@ Essas práticas ajudam a balancear as necessidades econômicas e alimentares com
 
 
 <footer class="footer">
-  <a href="#sumário">Sumário</a>                          
+  <a href="#sumário">Sumário</a> 
+  
   
      [Pág. inicial](index.html)
 </footer>
