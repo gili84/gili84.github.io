@@ -8,7 +8,7 @@ footer: ""
 format: 
   revealjs:
     smaller: true 
-    scrollable: true 
+    
   
 css: |
   .reveal .slide {
@@ -52,6 +52,8 @@ css: |
 ## Introdução {#pág3}
 
 A estatística pesqueira é um ramo da ciência que se ocupa da coleta, análise e interpretação de dados relacionados à pesca. Seu objetivo principal é fornecer informações úteis para a gestão sustentável dos recursos pesqueiros, garantindo que a pesca seja realizada de forma que preserve os ecossistemas aquáticos e assegure a disponibilidade contínua de espécies para o futuro.
+Vale lembrar que a apresentação é apenas uma síntese do que poderá ser abordado na dissertação, podendo ser incluído ou excluído os temas aqui apresentados.
+O trabalho da coleta de dados está em andamento pelo projeto de pesquisa "Estatística Pesqueira", que conta como referência o ilustre Prof.Dr. Paul Gerard Kinas.
 
 
  <footer class="footer">
@@ -82,6 +84,7 @@ Registro das capturas, esforço de pesca (quanto tempo e quantos barcos estão p
 
 ## 2. **Análise de Dados** {#pág6} 
 Estudo das tendências nas populações de peixes, como taxas de crescimento, mortalidade e recrutamento (entrada de novos indivíduos na população).
+Considerar os manejos e petrechos de pesca artesanal, tais como tipos de rede, embarcação, características gerais de cada pescador.
 
 <footer class="footer">
   <a href="#sumário">Sumário</a>
@@ -89,6 +92,7 @@ Estudo das tendências nas populações de peixes, como taxas de crescimento, mo
 
 ## 3. **Modelagem** {#pág7}
 Uso de modelos matemáticos e estatísticos para prever o impacto da pesca sobre as populações de peixes e para formular estratégias de manejo.
+Modelar o perfil do pescador artesanal envolvendo uma abordagem multifacetada que leva em consideração vários aspectos socioeconômicos, culturais e ambientais.
 
 <footer class="footer">
   <a href="#sumário">Sumário</a>
