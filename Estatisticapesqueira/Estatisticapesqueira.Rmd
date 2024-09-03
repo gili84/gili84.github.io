@@ -1,7 +1,7 @@
 ---
 title: Short Paper
 author:
-  - name: Alice Anonymous
+  - name: Giliard
     email: alice@example.com
     affiliation: Some Institute of Technology
     correspondingauthor: true
