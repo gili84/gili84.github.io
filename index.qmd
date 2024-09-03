@@ -15,7 +15,7 @@ editor: visual
 
 <a href="https://gili84.github.io/apresenta%C3%A7%C3%A3o.html#/title-slide" style = "color:white;"> Apresentação: Análise Estatística do Censo Estrutural de Pesca Artesanal no Estuário da Lagoa dos Patos - 2024</a>
 
-<a href="/Estatisticapesqueira/Estatisticapesqueira.pdf" style = "color: white;">Relatório PDF</a>
+<a href="Estatisticapesqueira/Estatisticapesqueira.pdf" style = "color: white;">Relatório PDF</a>
 
 
 ```{=html}
