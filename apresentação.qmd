@@ -1,8 +1,16 @@
 ---
-title: "Análise Estatística do Censo Estrutural de Pesca Artesanal no Estuário da Lagoa dos Patos - 2024"
+title:  "Apresentação: Análise Estatística do Censo Estrutural de Pesca Artesanal no Estuário da Lagoa dos Patos - 2024"
 author: "Giliard"
-
+transition: 'zoom'
+theme: 'sky'
 format: revealjs
+css: |
+  .reveal .slide {
+    background-image: url('https://w1.pngwing.com/pngs/149/348/png-transparent-boat-fisherman-fishing-nets-angling-cast-net-character-yellow-thumbnail.png');
+    background-size: cover; /* Ajusta a imagem para cobrir todo o slide */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita a repetição da imagem */
+  }
 ---
 
 ## Introdução
@@ -11,13 +19,14 @@ A estatística pesqueira é um ramo da ciência que se ocupa da coleta, análise
 
 ## Estrutura básica do estudo
 
- **Coleta de dados**
+
+ **1.Coleta de dados**
  
- **Análise de dados**
+ **2.Análise de dados**
  
- **Modelagem**
+ **3.Modelagem**
  
- **Avaliação e gestão**
+ **4.Avaliação e gestão**
 
 ## 1. **Coleta de Dados**: 
 Registro das capturas, esforço de pesca (quanto tempo e quantos barcos estão pescando), e características das espécies capturadas, como tamanho, peso e idade.
