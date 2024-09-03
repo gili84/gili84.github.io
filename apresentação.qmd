@@ -10,7 +10,7 @@ format:
     smaller: true 
     
   
-  [Pág. inicial](index.html)
+
 ---
 ## **[Sumário](#sumário)**
 
