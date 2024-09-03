@@ -1,6 +1,6 @@
 ---
 title: "Teste: construindo um site"
-theme: cosmo
+theme: 'cosmo'
 format: html
 editor: visual
 ---

@@ -1,5 +1,5 @@
 ---
-title:  "Apresentação: Análise Estatística do Censo Estrutural de Pesca Artesanal no Estuário da Lagoa dos Patos - 2024"
+title: "Análise Estatística do Censo Estrutural de Pesca Artesanal no Estuário da Lagoa dos Patos - 2024"
 author: "Giliard de Castro da Silveira"
 transition: 'zoom'
 theme: 'sky'
