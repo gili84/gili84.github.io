@@ -3,7 +3,8 @@ title: "Análise Estatística do Censo Estrutural de Pesca Artesanal no Estuári
 author: "Giliard de Castro da Silveira"
 transition: 'zoom'
 theme: 'sky'
-slideNumber: true
+slideNumber:  true
+footer: "" 
 format: revealjs
 css: |
   .reveal .slide {
@@ -15,40 +16,45 @@ css: |
   
   [Pág. inicial](index.html)
 ---
-## Sumário
+## **[Sumário](#sumário)**
 
-**-Introdução, pág 3**
+ **-[Introdução](#pág3)** 
 
- **-Estrutura básica dos dados, pág 4**
+ **-[Estrutura básica dos dados](#pág4)**
  
- **-Coleta de dados, pág 5**
+ **-[Coleta de dados](#pág5)**
  
- **-Análise de dados, pág 6**
+ **-[Análise de dados](#pág6)**
  
- **-Modelagem, pág 7**
+ **-[Modelagem](#pág7)**
  
- **-Avaliação e gestão, pág 8**
+ **-[Avaliação e gestão](#pág8)**
  
- **-Relatórios e comunicação, pág 9**
+ **-[Relatórios e comunicação](#pág9)**
  
- **-Pesca artesanal, pág 10**
+ **-[Pesca artesanal](#pág10)**
  
- **-Estuário da lagos dos patos, pág 11**
+ **-[Estuário da lagos dos patos](#pág11)**
  
- **-O que é monitoramento de produção pesqueira, pág 12**
+ **-[O que é monitoramento de produção pesqueira](#pág12)**
  
- **-Vantagens do monitoramento amostral, pág 13**
+ **-[Vantagens do monitoramento amostral](#pág13)**
  
- **-Visão espacial da área de estudo, pág 14**
+ **-[Visão espacial da área de estudo](#pág14)**
  
- **-Referências, pág 15**
+ **-[Referências](#pág15)**
  
  
-## Introdução
+## Introdução {#pág3}
 
 A estatística pesqueira é um ramo da ciência que se ocupa da coleta, análise e interpretação de dados relacionados à pesca. Seu objetivo principal é fornecer informações úteis para a gestão sustentável dos recursos pesqueiros, garantindo que a pesca seja realizada de forma que preserve os ecossistemas aquáticos e assegure a disponibilidade contínua de espécies para o futuro.
 
-## Estrutura básica do estudo
+
+ <footer class="footer">
+  <a href="#sumário">Sumário</a>
+</footer>
+
+## Estrutura básica do estudo {#pág4}
 
 
  **1.Coleta de dados**
@@ -58,62 +64,123 @@ A estatística pesqueira é um ramo da ciência que se ocupa da coleta, análise
  **3.Modelagem**
  
  **4.Avaliação e gestão**
+ 
+ <footer class="footer">
+  <a href="#sumário">Sumário</a>
+</footer>
 
-## 1. **Coleta de Dados**: 
+## 1. **Coleta de Dados**  {#pág5}
 Registro das capturas, esforço de pesca (quanto tempo e quantos barcos estão pescando), e características das espécies capturadas, como tamanho, peso e idade.
 
-## 2. **Análise de Dados**: 
+<footer class="footer">
+  <a href="#sumário">Sumário</a>
+</footer>
+
+## 2. **Análise de Dados** {#pág6} 
 Estudo das tendências nas populações de peixes, como taxas de crescimento, mortalidade e recrutamento (entrada de novos indivíduos na população).
 
-## 3. **Modelagem**: 
+<footer class="footer">
+  <a href="#sumário">Sumário</a>
+</footer>
+
+## 3. **Modelagem** {#pág7}
 Uso de modelos matemáticos e estatísticos para prever o impacto da pesca sobre as populações de peixes e para formular estratégias de manejo.
 
-## 4. **Avaliação e Gestão**: 
+<footer class="footer">
+  <a href="#sumário">Sumário</a>
+</footer>
+
+## 4. **Avaliação e Gestão** {#pág8}
 Desenvolvimento de políticas e regulamentos baseados em dados estatísticos para controlar a pesca e proteger os recursos marinhos, como cotas de captura, tamanhos mínimos de peixe e áreas de proteção.
 
-## 5. **Relatórios e Comunicação**: 
+<footer class="footer">
+  <a href="#sumário">Sumário</a>
+</footer>
+
+## 5. **Relatórios e Comunicação** {#pág9}
 Compartilhamento de informações com gestores, pescadores e o público para promover a consciência e a cooperação na conservação dos recursos pesqueiros.
 
 Essas práticas ajudam a balancear as necessidades econômicas e alimentares com a preservação ambiental, promovendo um uso mais responsável e eficiente dos recursos marinhos.
 
 
-## Pesca Artesanal
+<footer class="footer">
+  <a href="#sumário">Sumário</a>
+</footer>
+
+
+## Pesca Artesanal{#pág10}
 
 **Definição e Desafios**
 
 - **Definição**: Pesca realizada em pequena escala, com técnicas tradicionais.
 - **Desafios**: Dificuldades no monitoramento devido à variabilidade e ao caráter local.
 
+<footer class="footer">
+  <a href="#sumário">Sumário</a>
+</footer>
 
-## Estuário da Lagoa dos Patos (ELP)
+
+## Estuário da Lagoa dos Patos (ELP) {#pág11}
 
 - **Localização e Importância Ecológica**: Maior estuário do Brasil, rica em biodiversidade.
 - **Pesca Artesanal no ELP**: Descrição geral baseada em literatura e estudos prévios.
 
 
-## O que é Monitoramento de Produção Pesqueira?
+<footer class="footer">
+  <a href="#sumário">Sumário</a>
+</footer>
+
+## O que é Monitoramento de Produção Pesqueira? {#pág12}
 
 - **Definição**: Avaliação sistemática da quantidade e tipo de captura de pesca.
 - **Importância**: Fundamental para a gestão sustentável dos recursos pesqueiros e políticas públicas.
 - **Métodos no Mundo e no Brasil**: Monitoramento censitário e amostral.
 - **Censitário vs. Amostral**: Comparação e suas aplicações.
 
-## Vantagens do monitoramento amostral
+
+<footer class="footer">
+  <a href="#sumário">Sumário</a>
+</footer>
+
+
+## Vantagens do monitoramento amostral{#pág13}
 
 - **Eficiência**: Menor custo e recursos.
 - **Necessidade de Censo Estrutural**: Base para expansão inferencial em amostras probabilísticas.
 
-## Visão espacial da área de estudo
+
+<footer class="footer">
+  <a href="#sumário">Sumário</a>
+</footer>
+
+
+
+## Visão espacial da área de estudo {#pág14}
 
 <div style="text-align: center;">
   <img src="https://4.bp.blogspot.com/-QeBkqmRsc2c/TxM5xn8-KSI/AAAAAAAACTQ/zzzAwTE0Ghc/s1600/Limites+do+estu%25C3%25A1rio.jpg" alt="Mapa do Estuário da Lagoa dos Patos" style="width: 40%; max-width: 600px;"/>
 </div>
 
-[Pág. inicial](index.html)
 
-## Referências
+<footer class="footer">
+  <a href="#sumário">Sumário</a>
+</footer>
+
+
+
+
+## Referências {#pág15}
 [Ministério da pesca(2010)](https://www.icmbio.gov.br/cepsul/images/stories/biblioteca/download/estatistica/est_2010_nac_boletim.pdf)
 
 [IBAMA (2006)](https://www.gov.br/ibama/pt-br/phocadownload/biodiversidade/biodiversidade-aquatica/gestao-pesqueira/publicacoes/2006-censo-estrutural-da-pesca.pdf)
 
 [Blog Pesca na lagoa](https://4.bp.blogspot.com/-QeBkqmRsc2c/TxM5xn8-KSI/AAAAAAAACTQ/zzzAwTE0Ghc/s1600/Limites+do+estu%25C3%25A1rio.jpg)
+
+
+
+<footer class="footer">
+  <a href="#sumário">Sumário</a>                          
+  
+     [Pág. inicial](index.html)
+</footer>
+
