@@ -1,7 +1,7 @@
 ---
 title: Short Paper
 author:
-  - name: Giliard
+  - name: Giliard Bonitão
     email: alice@example.com
     affiliation: Some Institute of Technology
     correspondingauthor: true
