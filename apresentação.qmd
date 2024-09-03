@@ -3,6 +3,8 @@ title: "Análise Estatística do Censo Estrutural de Pesca Artesanal no Estuári
 author: "Giliard de Castro da Silveira"
 transition: 'zoom'
 theme: 'sky'
+slideNumber: true
+highlightStyle: "github"
 format: revealjs
 css: |
   .reveal .slide {
@@ -11,6 +13,8 @@ css: |
     background-position: center; /* Centraliza a imagem */
     background-repeat: no-repeat; /* Evita a repetição da imagem */
   }
+  
+  [Pág. inicial](index.html)
 ---
 
 ## Introdução
